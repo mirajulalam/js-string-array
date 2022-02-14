@@ -18,6 +18,7 @@ const second = 'City';
 const fullString = first.concat(second).concat('Dhaka').concat('Bangladesh');
 // console.log(fullString);
 
+// join
 const words2 = ['a', 'b', 'c', 'd'];
 // const allJoin = words2.join('');
 // const allJoin = words2.join(' ');
