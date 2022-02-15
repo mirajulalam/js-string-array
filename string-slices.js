@@ -4,8 +4,8 @@ const withoutA = anthem.split('a');
 // console.log(withoutA);
 
 // slice
-const smallSlice = anthem.slice(11, 17);
-// console.log(smallSlice);
+const smallSlice = anthem.slice(5, 10);
+console.log(smallSlice);
 
 // substring
 const anotherPart = anthem.substring(18, 21);
